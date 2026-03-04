@@ -21,4 +21,4 @@
     * [贡献](contribute.md)
     * [捐助](donate.md)
     * [致谢](thanks.md)
-    * [交流](discuss.md)
+ 
