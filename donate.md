@@ -21,7 +21,7 @@
 📧 联系邮箱：[cokei521@qq.com](mailto:cokei521@qq.com)
 
  ### 💬 **微信**
-![image](weixin.png)
+![image](https://frp.081011.xyz/weixin.png)
 ---
 
 
