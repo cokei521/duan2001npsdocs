@@ -12,5 +12,6 @@
 - 扩展功能强大
 - 全平台兼容，一键注册为服务
 
-[开始使用](https://frp.cokei521.top) 
+[开始使用-境内](https://frp.cokei521.top) 
+[开始使用-境外](https://frp.85604608.xyz) 
 [说明文档](#nps)
