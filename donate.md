@@ -12,7 +12,7 @@
 ![image](cokei521.png)
 
 
-> 💡 **仅对赞助或付费用户开放直接联系**
+> 💡 **仅对赞助用户开放直接联系**
 
 📧 联系邮箱：[cokei521@qq.com](mailto:cokei521@qq.com)
 
