@@ -13,7 +13,7 @@
 
  ### 🌐 **微信支付**
  
-![image](cokei521.png)
+![image](https://frp.081011.xyz/cokei521.png)
 
 ---
 > 💡 **仅对赞助用户开放直接联系**
