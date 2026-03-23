@@ -1,3 +1,6 @@
 # 交流群
 
-[Telegram 交流群](https://t.me/npsdev)
+QQ群：
+
+微信：
+
