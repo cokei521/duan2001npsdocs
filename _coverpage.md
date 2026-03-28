@@ -14,6 +14,6 @@
 
 
 [境内](https://frp.cokei521.top) 
-[新加坡](https://frp.85604608.xyz) 
 [香港](https://nps.081011.xyz) 
+[新加坡](https://frp.85604608.xyz) 
 [说明文档](#nps)
