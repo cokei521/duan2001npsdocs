@@ -20,8 +20,8 @@
 
 📧 联系邮箱：[cokei521@qq.com](mailto:cokei521@qq.com)
 
- ### 💬 **微信**
-![image](https://frp.081011.xyz/weixin.png)
+ ### 💬 **微信公众号**
+![image](https://frp.081011.xyz/gongzhonghao.png)
 
 ###  🤞感谢您的大力支持！
 
