@@ -3,7 +3,20 @@
 NPS 提供多种安装方式，推荐使用 **Docker 部署**，也支持 **二进制发布包安装** 及 **源码编译**。
 
 ---
+### **1. NPS 服务端**
 
+docker-compose.yaml
+
+```bash
+services:
+  nps_duan2001:
+    image: docker.1ms.run/duan2001/nps:latest
+    restart: always
+    network_mode: host # 服务端根据情况配置网络情况，默认端口8081，可以修改配置文件更改
+    container_name: npsduan2001
+    volumes:
+      - /www/dk_project/dk_app/duan2001nps/nps_duan2001/conf:/conf
+```
 
 ### **1. NPC 客户端**
 
@@ -12,6 +25,29 @@ NPS 提供多种安装方式，推荐使用 **Docker 部署**，也支持 **二�
 docker pull duan2001/npc
 docker run -d --restart=always --name npc --net=host duan2001/npc -server=xxx:123,yyy:456 -vkey=xxx,yyy -type=tls,tcp -log=off
 ```
+
+docker-compose.yaml 无配置文件安装
+
+```bash
+version: '3.8'
+
+services:
+  npc:
+    image: duan2001/npc
+    container_name: npchk64901419
+    # 保持与 docker run --net=host 一致，直接使用宿主机网络
+    network_mode: host
+    # 保持与 docker run --restart=always 一致
+    restart: always
+    # 将 run 命令后面的参数放入 command 字段
+    volumes:
+      - /opt/npchk64901419/conf:/conf
+    command:
+      - -server=XXX.XX.XXX.XXX:8024
+      - -vkey=XXXXXX
+      - -type=tcp
+```
+
 
 #### **GHCR（可选）**
 ```bash
