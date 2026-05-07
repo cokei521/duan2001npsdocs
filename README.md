@@ -75,9 +75,8 @@ NPS 是一款**轻量级**、**高性能**、**功能强大**的**内网穿透�
 
 ### 🌐[新加坡加速站](http://nps.cokei521.top)
 
-### 🌐[新加坡加速备用](https://docs.cokei521.top)
 
-### 🌐[新加坡加速备用](https://docs.cokei521.top)
+
 
 
 
